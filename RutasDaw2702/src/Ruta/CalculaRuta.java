@@ -3,6 +3,8 @@ package Ruta;
 import java.util.List;
 
 public class CalculaRuta {
+	
+	public int rutas = 0;
     public String rutaMasRapida(String origen, String destino) {
             // Simulación de cálculo de ruta más rápida
         return "Ruta 1";
